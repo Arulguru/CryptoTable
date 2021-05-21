@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CryptoTable/static/css/main.73d55d51.chunk.css",
-    "main.js": "/CryptoTable/static/js/main.0b729d3d.chunk.js",
-    "main.js.map": "/CryptoTable/static/js/main.0b729d3d.chunk.js.map",
+    "main.js": "/CryptoTable/static/js/main.7441577a.chunk.js",
+    "main.js.map": "/CryptoTable/static/js/main.7441577a.chunk.js.map",
     "runtime-main.js": "/CryptoTable/static/js/runtime-main.975749c9.js",
     "runtime-main.js.map": "/CryptoTable/static/js/runtime-main.975749c9.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/CryptoTable/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.ad79f68e.chunk.js",
     "static/css/main.73d55d51.chunk.css",
-    "static/js/main.0b729d3d.chunk.js"
+    "static/js/main.7441577a.chunk.js"
   ]
 }
