@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CryptoTable/static/css/main.0b206893.chunk.css",
+    "main.js": "/CryptoTable/static/js/main.ec6accbf.chunk.js",
+    "main.js.map": "/CryptoTable/static/js/main.ec6accbf.chunk.js.map",
+    "runtime-main.js": "/CryptoTable/static/js/runtime-main.975749c9.js",
+    "runtime-main.js.map": "/CryptoTable/static/js/runtime-main.975749c9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/CryptoTable/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ad79f68e.chunk.js": "/CryptoTable/static/js/2.ad79f68e.chunk.js",
+    "static/js/2.ad79f68e.chunk.js.map": "/CryptoTable/static/js/2.ad79f68e.chunk.js.map",
+    "static/js/3.b548e48d.chunk.js": "/CryptoTable/static/js/3.b548e48d.chunk.js",
+    "static/js/3.b548e48d.chunk.js.map": "/CryptoTable/static/js/3.b548e48d.chunk.js.map",
+    "index.html": "/CryptoTable/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/CryptoTable/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0b206893.chunk.css.map": "/CryptoTable/static/css/main.0b206893.chunk.css.map",
+    "static/js/2.ad79f68e.chunk.js.LICENSE.txt": "/CryptoTable/static/js/2.ad79f68e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.975749c9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ad79f68e.chunk.js",
+    "static/css/main.0b206893.chunk.css",
+    "static/js/main.ec6accbf.chunk.js"
+  ]
+}
