@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/CryptoTable/static/css/main.73d55d51.chunk.css",
-    "main.js": "/CryptoTable/static/js/main.7441577a.chunk.js",
-    "main.js.map": "/CryptoTable/static/js/main.7441577a.chunk.js.map",
-    "runtime-main.js": "/CryptoTable/static/js/runtime-main.975749c9.js",
-    "runtime-main.js.map": "/CryptoTable/static/js/runtime-main.975749c9.js.map",
+    "main.css": "/CryptoTable/static/css/main.9c7f6776.chunk.css",
+    "main.js": "/CryptoTable/static/js/main.5639d21b.chunk.js",
+    "main.js.map": "/CryptoTable/static/js/main.5639d21b.chunk.js.map",
+    "runtime-main.js": "/CryptoTable/static/js/runtime-main.92ffb52c.js",
+    "runtime-main.js.map": "/CryptoTable/static/js/runtime-main.92ffb52c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/CryptoTable/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.ad79f68e.chunk.js": "/CryptoTable/static/js/2.ad79f68e.chunk.js",
-    "static/js/2.ad79f68e.chunk.js.map": "/CryptoTable/static/js/2.ad79f68e.chunk.js.map",
-    "static/js/3.b548e48d.chunk.js": "/CryptoTable/static/js/3.b548e48d.chunk.js",
-    "static/js/3.b548e48d.chunk.js.map": "/CryptoTable/static/js/3.b548e48d.chunk.js.map",
+    "static/js/2.c21cad7c.chunk.js": "/CryptoTable/static/js/2.c21cad7c.chunk.js",
+    "static/js/2.c21cad7c.chunk.js.map": "/CryptoTable/static/js/2.c21cad7c.chunk.js.map",
+    "static/js/3.2b2e8d4a.chunk.js": "/CryptoTable/static/js/3.2b2e8d4a.chunk.js",
+    "static/js/3.2b2e8d4a.chunk.js.map": "/CryptoTable/static/js/3.2b2e8d4a.chunk.js.map",
     "index.html": "/CryptoTable/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/CryptoTable/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.73d55d51.chunk.css.map": "/CryptoTable/static/css/main.73d55d51.chunk.css.map",
-    "static/js/2.ad79f68e.chunk.js.LICENSE.txt": "/CryptoTable/static/js/2.ad79f68e.chunk.js.LICENSE.txt"
+    "static/css/main.9c7f6776.chunk.css.map": "/CryptoTable/static/css/main.9c7f6776.chunk.css.map",
+    "static/js/2.c21cad7c.chunk.js.LICENSE.txt": "/CryptoTable/static/js/2.c21cad7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.975749c9.js",
+    "static/js/runtime-main.92ffb52c.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.ad79f68e.chunk.js",
-    "static/css/main.73d55d51.chunk.css",
-    "static/js/main.7441577a.chunk.js"
+    "static/js/2.c21cad7c.chunk.js",
+    "static/css/main.9c7f6776.chunk.css",
+    "static/js/main.5639d21b.chunk.js"
   ]
 }
